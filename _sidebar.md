@@ -1,2 +1,2 @@
-* [الرئيسية 🏠](README.md)
-* [المحاضرة 1: Authentication 🛡️](lecture1.md)
+- [Home](README.md)
+- [Lecture 1](lecture1.md)
