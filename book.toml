@@ -1,0 +1,11 @@
+[book]
+authors = ["Wesam AboShmala"]
+language = "ar"
+multilingual = false
+src = "src"
+title = "Oracle Database Security - Lecture Notes"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/WesamAboShmala/db-summary"
