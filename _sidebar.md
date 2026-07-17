@@ -1,4 +1,2 @@
-- [الرئيسية 🏠](README.md)
-- محاضرات المادة 📚
-  - [المحاضرة 1: مقدمة 🖼️](lecture1.md)
-  - [المحاضرة 2: عرض الـ PDF 📄](lecture2.md)
+* [الرئيسية 🏠](README.md)
+* [المحاضرة 1: Authentication 🛡️](lecture1.md)
