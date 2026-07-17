@@ -4,5 +4,5 @@
 
 # Lectures
 
-- [1. Oracle Database Security](lecture1.md)
-- [2. Authentication Methods](lecture2.md)
+- [1. Authentication & User Profile](lecture1.md)
+- [2. Authorization](lecture2.md)
