@@ -14,8 +14,7 @@
 لأنه البيانات بتتحرك بمسار:
 
 
-$$\text{Database} \longrightarrow \text{OS} \longrightarrow \text{(فلاش/هارد ديسك)} \longrightarrow \text{Database ثانية}$$
-
+> **`Database`** ➔ **`OS (فلاش / هارد ديسك)`** ➔ **`Database ثانية`**
 ---
 
 ## 2) أهم فرق مفاهيمي: Data Movement ≠ Backup، و Data Backup ≠ Database Backup
