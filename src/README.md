@@ -30,7 +30,7 @@
 
 <div dir="rtl" style="background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); border-right: 5px solid #16a34a; border-radius: 12px; padding: 16px 20px; margin: 20px 0; box-shadow: 0 4px 12px rgba(22, 163, 74, 0.08);">
   <div style="margin-bottom: 8px;">
-    <span style="background: #16a34a; color: white; padding: 4px 12px; border-radius: 20px; font-size: 0.85em; font-weight: bold;">🤍 رسالة من القلب</span>
+    <span style="background: #16a34a; color: white; padding: 4px 12px; border-radius: 20px; font-size: 0.85em; font-weight: bold;">🤍 رسالة </span>
   </div>
   <p style="margin: 0; font-size: 1.05em; color: #14532d; line-height: 1.7;">
     تذكر إنك ما عم تدرس بس عشان امتحان.. أنت عم تبني مهارة وخبرة إلك وللمستقبل. التعب لحظي وبيروح، بس الفهم والنجاح بضلوا معك. روق، توكل على الله، وأبشر بالخير! 💪✨
