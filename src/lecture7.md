@@ -1,4 +1,6 @@
 
+بسم الله الرحمن الرحيم
+> 🤲 **"اللهم انفعنا بما علمتنا، وعلمنا ما ينفعنا، وزدنا علماً"**
 
 # محاضرة Data Movement
 
@@ -111,6 +113,16 @@ exp system/password@orcl file=D:\backup\full.dmp full=y
 💡 **نصيحة:** "لو بدك تتعلم حاجة، تعلّم Export DP/Import DP، وانسى Export/Import Legacy تمامًا ما رح تحتاجها بالشغل الحقيقي." الـ Legacy كان بس لتبسيط فهم السيناريو الأساسي.
 
 ---
+<div dir="rtl" style="background: linear-gradient(135deg, #fffbeb 0%, #fef3c7 100%); border-right: 5px solid #d97706; border-radius: 12px; padding: 16px 20px; margin: 20px 0; box-shadow: 0 4px 12px rgba(217, 119, 6, 0.08);">
+  <div style="margin-bottom: 8px;">
+    <span style="background: #d97706; color: white; padding: 4px 12px; border-radius: 20px; font-size: 0.85em; font-weight: bold;">🛡️ قيمة الجهد</span>
+  </div>
+  <p style="margin: 0; font-size: 1.05em; color: #78350f; line-height: 1.7;">
+    <strong style="color: #b45309; background: #fde68a; padding: 3px 10px; border-radius: 6px; display: inline-block; margin-bottom: 6px;">" الصلاة على الحبيب ﷺ"</strong>  
+    <br>
+    <span style="font-size: 0.95em; color: #92400e;">تذكر إنك عم تتعلم كيف تحمي بيانات ومجهود ناس.. أمانة وإتقان العمل إلو أجر وثواب كبير عند ربنا، احتسب النية واكمل بثقة! 🌟</span>
+  </p>
+</div>
 
 ### 📁 الفرق الجوهري بالاستخدام: Directory Object (خاص بالـ Data Pump)
 
