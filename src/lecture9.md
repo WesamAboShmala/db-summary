@@ -1,3 +1,5 @@
+بسم الله الرحمن الرحيم
+> 🤲 **"اللهم انفعنا بما علمتنا، وعلمنا ما ينفعنا، وزدنا علماً"**
 
 ---
 
@@ -29,6 +31,16 @@
 ```
 
 ---
+<div dir="rtl" style="background: linear-gradient(135deg, #f7fee7 0%, #ecfccb 100%); border-right: 5px solid #65a30d; border-radius: 12px; padding: 16px 20px; margin: 20px 0; box-shadow: 0 4px 12px rgba(101, 163, 13, 0.08);">
+  <div style="margin-bottom: 8px;">
+    <span style="background: #65a30d; color: white; padding: 4px 12px; border-radius: 20px; font-size: 0.85em; font-weight: bold;">🌺 وقفة امتنان</span>
+  </div>
+  <p style="margin: 0; font-size: 1.05em; color: #365314; line-height: 1.7;">
+    <strong style="color: #4d7c0f; background: #d9f99d; padding: 3px 10px; border-radius: 6px; display: inline-block; margin-bottom: 6px;">"الحمد لله وصلى الله على نبينا محمد"</strong>  
+    <br>
+    <span style="font-size: 0.95em; color: #3f6212;">احمد ربنا على نعمة الفهم والقدرة على تعلم شغلات تقنية ثقيلة ومهمة، افتخر بنفسك وبكل معلومة ثبتت بذهنك! 🤍✨</span>
+  </p>
+</div>
 
 ## 3) أولاً: أخذ الباك أب (قبل أي كارثة، وأنتِ شغالة عادي) 🛡️
 
