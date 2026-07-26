@@ -11,5 +11,6 @@
 - [5. Flashback Part01](lecture5.md)
 - [6. Flashback Part02](lecture6.md)
 - [7. Data Movement](lecture7.md)
-- [8. Backup & Recovery](lecture8.md) 
+- [8. Backup & Recovery](lecture8.md)
+- [9.Disaster Recovery+practical](lecture9.md)
 
