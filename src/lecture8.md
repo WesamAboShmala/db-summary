@@ -136,7 +136,6 @@
 ---
 <div dir="rtl" style="background: linear-gradient(135deg, #f5f3ff 0%, #ede9fe 100%); border-right: 5px solid #7c3aed; border-radius: 12px; padding: 16px 20px; margin: 20px 0; box-shadow: 0 4px 12px rgba(124, 58, 237, 0.08);">
   <div style="margin-bottom: 8px;">
-    <span style="background: #7c3aed; color: white; padding: 4px 12px; border-radius: 20px; font-size: 0.85em; font-weight: bold;">🌙 للساعات الطويلة</span>
   </div>
   <p style="margin: 0; font-size: 1.05em; color: #4c1d95; line-height: 1.7;">
     <strong style="color: #6d28d9; background: #ddd6fe; padding: 3px 10px; border-radius: 6px; display: inline-block; margin-bottom: 6px;">"صلي على سيدنا محمد.. ما بعد العسر إلا اليسر"</strong>  
