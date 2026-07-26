@@ -92,9 +92,16 @@
 * **Unified:** عبارة عن Framework واحد شامل يجمع كل شيء من خلال أوامر بسيطة؛ أسهل، أسرع، لا تأثير له على الـ Performance، ويدعم مصادر متعددة.
 
 ---
-
-> ☕ **استراحة محارب:**  
-> لو حسيت الدنيا تشابكت والمعلومات زادت عليك.. صلي على النبي وخذ نفس عميق.  
+<div dir="rtl" style="background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); border-right: 5px solid #16a34a; border-radius: 12px; padding: 16px 20px; margin: 20px 0; box-shadow: 0 4px 12px rgba(22, 163, 74, 0.08); font-family: inherit;">
+  <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;">
+    <span style="background-color: #16a34a; color: white; padding: 3px 10px; border-radius: 20px; font-size: 0.85em; font-weight: bold;">☕ استراحة محارب</span>
+  </div>
+  <p style="margin: 0; font-size: 1.05em; color: #14532d; line-height: 1.7;">
+    لو حسيت الدنيا تشابكت والمعلومات زادت عليك.. <strong style="color: #15803d; background-color: #bbf7d0; padding: 2px 6px; border-radius: 4px;">صلي على النبي</strong> وخذ نفس عميق.  
+    <br>
+    <span style="font-size: 0.95em; color: #166534; opacity: 0.9;">التعب بيروح بس الفهم بيضل، وكل خطوة صغيرة عم تقربك لهدفك! 🤍</span>
+  </p>
+</div>
 > 
 ## 💻 رابعاً: كيف نُفعّل الأوديتينج عملياً (Standard Auditing)
 
