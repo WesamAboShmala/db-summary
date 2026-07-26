@@ -1,4 +1,6 @@
 
+بسم الله الرحمن الرحيم
+> 🤲 **"اللهم انفعنا بما علمتنا، وعلمنا ما ينفعنا، وزدنا علماً"**
 
 # 🛡️ محاضرة Backup and Recovery Concepts
 
@@ -132,6 +134,16 @@
 2. أداة RMAN (أداة الباك أب الاحترافية) بتحتاج القاعدة تكون بهاد الوضع عشان تشتغل صح.
 
 ---
+<div dir="rtl" style="background: linear-gradient(135deg, #f5f3ff 0%, #ede9fe 100%); border-right: 5px solid #7c3aed; border-radius: 12px; padding: 16px 20px; margin: 20px 0; box-shadow: 0 4px 12px rgba(124, 58, 237, 0.08);">
+  <div style="margin-bottom: 8px;">
+    <span style="background: #7c3aed; color: white; padding: 4px 12px; border-radius: 20px; font-size: 0.85em; font-weight: bold;">🌙 للساعات الطويلة</span>
+  </div>
+  <p style="margin: 0; font-size: 1.05em; color: #4c1d95; line-height: 1.7;">
+    <strong style="color: #6d28d9; background: #ddd6fe; padding: 3px 10px; border-radius: 6px; display: inline-block; margin-bottom: 6px;">"صلي على سيدنا محمد.. ما بعد العسر إلا اليسر"</strong>  
+    <br>
+    <span style="font-size: 0.95em; color: #5b21b6;">لما تحس إنك تعبت والمخ قفل، اعرف إن عقلك عم يتوسع ويتعلم صح. خذ استراحة قصيرة، رب العالمين ما بضيع أجر من أحسن عملاً. 🕯️✨</span>
+  </p>
+</div>
 
 ## 10) مثال توضيحي على الـ Instance Recovery بالأرقام (SCN)
 
