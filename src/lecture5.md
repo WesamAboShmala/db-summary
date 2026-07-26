@@ -1,5 +1,8 @@
 
-                                                                                                  **Flashback Part01**
+بسم الله الرحمن الرحيم
+> 🤲 **"اللهم انفعنا بما علمتنا، وعلمنا ما ينفعنا، وزدنا علماً"**
+
+# Flashback Database (Part 1)
 
 ## 1. التكنولوجيا اللي بيعتمد عليها كل نوع فلاش باك
 
@@ -136,6 +139,16 @@ GRANT SELECT ON my_test TO اسم_اليوزر;
 ```
 
 ---
+<div dir="rtl" style="background: linear-gradient(135deg, #faf5ff 0%, #f3e8ff 100%); border-right: 5px solid #9333ea; border-radius: 12px; padding: 16px 20px; margin: 20px 0; box-shadow: 0 4px 12px rgba(147, 51, 234, 0.08);">
+  <div style="margin-bottom: 8px;">
+    <span style="background: #9333ea; color: white; padding: 4px 12px; border-radius: 20px; font-size: 0.85em; font-weight: bold;">🌿 همسة من القلب</span>
+  </div>
+  <p style="margin: 0; font-size: 1.05em; color: #581c87; line-height: 1.7;">
+    <strong style="color: #6b21a8; background: #e9d5ff; padding: 3px 10px; border-radius: 6px; display: inline-block; margin-bottom: 6px;">"صلي على سيدنا محمد ﷺ.. خلي قلبك يرتاح"</strong>  
+    <br>
+    <span style="font-size: 0.95em; color: #6b21a8;">تذكر إنك عم تتعلم عشان تبني مستقبلك، وما في جهد بضيع عند ربنا. ✨</span>
+  </p>
+</div>
 
 ## 3. الحذف النهائي PURGE
 
