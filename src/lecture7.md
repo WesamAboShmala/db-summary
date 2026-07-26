@@ -120,7 +120,7 @@ exp system/password@orcl file=D:\backup\full.dmp full=y
   <p style="margin: 0; font-size: 1.05em; color: #78350f; line-height: 1.7;">
     <strong style="color: #b45309; background: #fde68a; padding: 3px 10px; border-radius: 6px; display: inline-block; margin-bottom: 6px;">" الصلاة على الحبيب ﷺ"</strong>  
     <br>
-    <span style="font-size: 0.95em; color: #92400e;">تذكر إنك عم تتعلم كيف تحمي بيانات ومجهود ناس.. أمانة وإتقان العمل إلو أجر وثواب كبير عند ربنا، احتسب النية واكمل بثقة! 🌟</span>
+    <span style="font-size: 0.95em; color: #92400e;">تذكر إنك عم تتعلم كيف تحمي بيانات ومجهود ناس.. أمانة وإتقان العمل إلو أجر وثواب كبير عند ربنا، احتسب النية وكمل ! 🌟</span>
   </p>
 </div>
 
