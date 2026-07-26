@@ -96,6 +96,10 @@ ALTER DATABASE ARCHIVELOG;
 1. الفلاش باك لوجز تكون شغّالة.
 2. الأركايف لوج مود يكون شغال.
 
+💡 *بقدر أرجعها بأمر `ALTER DATABASE NOARCHIVELOG` بتبطل الأركايف لوج مود. بس عندها: الـRecovery Manager (RMAN) ما رح يشتغل إلا بالأركايف، والفلاش باك برضه ما رح يشتغل.*
+
+💡 **نصيحة شخصية أحفظها:الأصح والأحسن إنك لما تشغّل الداتابيز، تكون فاهم أي Mode أنت شغّلها فيه بيسهّل عليك بموضوع الـDBA، وبيزيد التوفّر (Availability).
+
 <div dir="rtl" style="background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); border-right: 5px solid #16a34a; border-radius: 12px; padding: 16px 20px; margin: 20px 0; box-shadow: 0 4px 12px rgba(22, 163, 74, 0.08);">
   <div style="margin-bottom: 8px;">
     <span style="background: #16a34a; color: white; padding: 4px 12px; border-radius: 20px; font-size: 0.85em; font-weight: bold;">🎯 صفّي ذهنك وركّز</span>
@@ -103,14 +107,9 @@ ALTER DATABASE ARCHIVELOG;
   <p style="margin: 0; font-size: 1.05em; color: #14532d; line-height: 1.7;">
     <strong style="color: #15803d; background: #bbf7d0; padding: 3px 10px; border-radius: 6px; display: inline-block; margin-bottom: 6px;">"اللهم لا سهل إلا ما جعلته سهلاً"</strong>  
     <br>
-    <span style="font-size: 0.95em; color: #166534;">الخطوات الطويلة بدها هدوء وتركيز. خذ رشفة من قهوتك، امشِ خطوة خطوة، وتأكد إنك قدها وأشطر مما بتتوقع! ☕💪</span>
+    <span style="font-size: 0.95em; color: #166534;">الخطوات الطويلة بدها هدوء وتركيز. جيب كاسة شاي ، و خطوة خطوة، وتأكد إنك قدها وأشطر مما بتتوقع! ☕💪</span>
   </p>
 </div>
-
-💡 *بقدر أرجعها بأمر `ALTER DATABASE NOARCHIVELOG` بتبطل الأركايف لوج مود. بس عندها: الـRecovery Manager (RMAN) ما رح يشتغل إلا بالأركايف، والفلاش باك برضه ما رح يشتغل.*
-
-💡 **نصيحة شخصية أحفظها:** الأصح والأحسن إنك لما تشغّل الداتابيز، تكون فاهم أي Mode أنت شغّلها فيه بيسهّل عليك بموضوع الـDBA، وبيزيد التوفّر (Availability).
-
 ### 5️⃣ الخطوة 5: فعّل الفلاش باك
 
 ```sql
