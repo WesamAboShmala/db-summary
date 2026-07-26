@@ -360,12 +360,22 @@ ALTER USER "UCAS$DESKTOP-SL0QUTR\CLICK" PROFILE ucas_profile;
 
 ```
 
-> 🧪 **تجربة الحظر:** عند محاولة الدخول 5 مرات بشكل خاطئ، سيقوم النظام تلقائياً بقفل الحساب وتحويل حالته إلى Locked. لفك القفل عن الحساب نستخدم أمر الـ Unlock الذي درسناه سابقاً:
+> **تجربة الحظر:** عند محاولة الدخول 5 مرات بشكل خاطئ، سيقوم النظام تلقائياً بقفل الحساب وتحويل حالته إلى Locked. لفك القفل عن الحساب نستخدم أمر الـ Unlock الذي درسناه سابقاً:
 
 ```sql
 ALTER USER WESAM ACCOUNT UNLOCK;
 
 ```
+<div dir="rtl" style="background: linear-gradient(135deg, #f0fdfa 0%, #ccfbf1 100%); border-right: 5px solid #0d9488; border-radius: 12px; padding: 16px 20px; margin: 20px 0; box-shadow: 0 4px 12px rgba(13, 148, 136, 0.08);">
+  <div style="margin-bottom: 8px;">
+    <span style="background: #0d9488; color: white; padding: 4px 12px; border-radius: 20px; font-size: 0.85em; font-weight: bold;">🍃 انتعاش وتجديد طاقة</span>
+  </div>
+  <p style="margin: 0; font-size: 1.05em; color: #134e4a; line-height: 1.7;">
+    <strong style="color: #0f766e; background: #99f6e4; padding: 3px 10px; border-radius: 6px; display: inline-block; margin-bottom: 6px;">"اللهم صلِّ وسلِّم على نبينا محمد"</strong>  
+    <br>
+    <span style="font-size: 0.95em; color: #115e59;">ارخي أكتافك، خذ نفس عميق، التفكير الصافي بفرّق معك كثير وبيختصر عليك ساعات عمل. كمل بروقان! 🤍</span>
+  </p>
+</div>
 
 ### ⏳ انتهاء صلاحية كلمة المرور (Password Expiration):
 
