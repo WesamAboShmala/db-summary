@@ -163,8 +163,7 @@ SELECT COUNT(*) FROM dba_users;
 
 ## 🧠 6. ليش لازم RESETLOGS بالضبط؟ (الشرح التقني)
 
-لما بتشتغل الداتابيز، عندي ثلاث فايلات لهم SCN واحد — هاد الـCheckpoint بيشتغل على الثلاثة فايلات هدول:
-
+لما بتشتغل الداتابيز، عندي ثلاث فايلات لهم SCN واحد  هاد الـCheckpoint بيشتغل على الثلاثة فايلات هدول:
 1. Online Redo Log
 2. Control File
 3. Database File
