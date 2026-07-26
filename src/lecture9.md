@@ -74,17 +74,13 @@ CONFIGURE CONTROLFILE AUTOBACKUP ON;
 | # | الخطوة | الأمر (Command) | شو بتعمل؟ (Explanation) |
 | --- | --- | --- | --- |
 | **1** | إنشاء Instance | `oradim -new -sid ucas` | تنشئ Instance فاضي بالاسم اللي بدك ياه |
-| **2** | ملف المؤقت | إنشاء `init.ora` بسطر واحد:<br>
-
-<br>`*.db_name='ucas'` | ملف Parameter مؤقت بسيط للتشغيل الأولي |
+| **2** | ملف المؤقت | إنشاء `init.ora` محتواه: `*.db_name='ucas'` | ملف Parameter مؤقت بسيط للتشغيل الأولي |
 | **3** | الاتصال | `rman target /` | تتصلي بـ RMAN |
-| **4** | تحديد الـ DBID | `set DBID=<الرقم المحفوظ>` | **خطوة حرجة جدًا، بدونها ما بتكملي!** |
+| **4** | تحديد الـ DBID | `set DBID=[رقم_DBID_المحفوظ]` | **خطوة حرجة جدًا، بدونها ما بتكملي!** |
 | **5** | تشغيل مبدئي | `startup nomount pfile='D:\init.ora'` | تشغيل مبدئي بالملف البسيط |
 | **6** | استرجاع Control | `restore controlfile;` | ترجعي الـ Control File |
 | **7** | استرجاع SPFile | `restore spfile;` | ترجعي الـ SPFile الحقيقي |
-| **8** | إعادة التشغيل | `shutdown immediate;`<br>
-
-<br>ثم `startup nomount;` | تعيدي التشغيل بالـ SPFile الحقيقي المسترجَع |
+| **8** | إعادة التشغيل | `shutdown immediate;` ثم `startup nomount;` | تعيدي التشغيل بالـ SPFile الحقيقي المسترجَع |
 | **9** | ربط الفايلات | `alter database mount;` | تفتحي الـ Control File (Mount State) |
 | **10** | استرجاع البيانات | `restore database;` | ترجعي ملفات البيانات الفعلية (بتاخذ وقت دقايق) |
 | **11** | تطبيق التغييرات | `recover database;` | تطبّقي الـ Archive Log والـ Redo Log (Instance Recovery) |
