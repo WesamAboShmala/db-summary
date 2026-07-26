@@ -107,7 +107,7 @@ ALTER DATABASE ARCHIVELOG;
   <p style="margin: 0; font-size: 1.05em; color: #14532d; line-height: 1.7;">
     <strong style="color: #15803d; background: #bbf7d0; padding: 3px 10px; border-radius: 6px; display: inline-block; margin-bottom: 6px;">"اللهم لا سهل إلا ما جعلته سهلاً"</strong>  
     <br>
-    <span style="font-size: 0.95em; color: #166534;">الخطوات الطويلة بدها هدوء وتركيز. جيب كاسة شاي ، و خطوة خطوة، وتأكد إنك قدها وأشطر مما بتتوقع! ☕💪</span>
+    <span style="font-size: 0.95em; color: #166534;">الخطوات الطويلة بدها هدوء وتركيز. حضر كاسة شاي ، و خطوة خطوة، وتأكد إنك قدها وأشطر مما بتتوقع! ☕💪</span>
   </p>
 </div>
 ### 5️⃣ الخطوة 5: فعّل الفلاش باك
