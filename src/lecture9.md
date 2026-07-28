@@ -109,19 +109,10 @@ SELECT * FROM tab;
 
 ---
 
-## 🧠 الخلاصة والشي الوحيد اللي لازم تكوني فاهمتيه
 
-```text
-📥 الباك أب:
-rman target / ➔ backup database (+ spfile + controlfile + archivelog)
 
-📤 الاسترجاع (Recovery):
-set DBID ➔ startup nomount ➔ restore controlfile/spfile ➔ mount ➔ restore database ➔ recover database ➔ open resetlogs
 
-```
 
-> 💡 **ملاحظة:**
-> كل شي ثاني (الـ Catalog، الـ Retention Policy، الـ Backup Set مقابل Image Copy، الـ Data Guard) هو تفاصيل وخيارات إضافية مش أساس السيناريو الرئيسي.
 
 ---
 # 🕊️ ختاماً
